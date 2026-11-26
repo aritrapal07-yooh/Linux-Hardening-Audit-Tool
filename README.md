@@ -8,7 +8,7 @@ It helps identify selected security configuration issues and generates an audit 
 
 ## Author
 
-**Arti Pal**
+**Aritra  Pal**
 Cybersecurity Student |
 
 Cyber Crime Investigator and Fraud Analyst
