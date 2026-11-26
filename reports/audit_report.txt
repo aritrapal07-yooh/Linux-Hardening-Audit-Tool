@@ -1,0 +1,20 @@
+LINUX HARDENING AUDIT REPORT
+===================================
+
+PROJECT: Linux Hardening Audit Tool
+AUTHOR: Aritra Pal
+DATE: 2026-11-26 08:37:01.115552
+SYSTEM: Linux
+RELEASE: 7.1.5+kali-amd64
+
+FIREWALL: PASS - Firewall is active
+SSH: INFO - Root SSH setting not explicitly configured
+
+FILE PERMISSIONS:
+- /etc/passwd: permissions 644
+- /etc/shadow: permissions 640
+
+SECURITY SCORE: 90/100
+
+RECOMMENDATIONS:
+- Review SSH configuration manually.

@@ -1,0 +1,17 @@
+{
+    "project": "Linux Hardening Audit Tool",
+    "author": "Aritra Pal",
+    "date": "2026-11-26 08:37:01.115552",
+    "system": "Linux",
+    "release": "7.1.5+kali-amd64",
+    "firewall": "PASS - Firewall is active",
+    "ssh": "INFO - Root SSH setting not explicitly configured",
+    "file_permissions": [
+        "/etc/passwd: permissions 644",
+        "/etc/shadow: permissions 640"
+    ],
+    "security_score": 90,
+    "recommendations": [
+        "Review SSH configuration manually."
+    ]
+}
