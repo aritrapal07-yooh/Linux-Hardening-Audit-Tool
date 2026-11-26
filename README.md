@@ -8,8 +8,10 @@ It helps identify selected security configuration issues and generates an audit 
 
 ## Author
 
-**Aritra Pal**
-Cybersecurity Student | Cyber Crime Investigator and Fraud Analyst
+**Arti Pal**
+Cybersecurity Student |
+
+Cyber Crime Investigator and Fraud Analyst
 
 ## Features
 
